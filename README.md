@@ -10,8 +10,9 @@ all that remains is to discover these processing capabilities by experimentation
 
 This repository contains demonstrative examples along with comments on the capabilities and limits of quantitative processing using GenAI tools
 
-
 ## Themes
 
+> <p><strong>Step 1</strong> - Prompt Engineering -> (https://github.com/MoiraCorp/DLMM-IRating-in-R/tree/main/prompt-engineering)</p>
+> <p><strong>Step 2</strong> - Retrieval Augmented Generation (RAG) -> (https://github.com/MoiraCorp/DLMM-IRating-in-R/tree/main/rag)</p>
 
 
