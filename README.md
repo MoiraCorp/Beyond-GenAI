@@ -13,6 +13,6 @@ This repository contains demonstrative examples along with comments on the capab
 ## Themes
 
 > <p><strong>Step 1</strong> - Prompt Engineering -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/prompt-engineering)</p>
-> <p><strong>Step 2</strong> - Retrieval Augmented Generation (RAG) -> (https://github.com/MoiraCorp/DLMM-IRating-in-R/tree/main/rag)</p>
+> <p><strong>Step 2</strong> - Retrieval Augmented Generation (RAG) -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/rag)</p>
 
 
