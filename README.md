@@ -12,11 +12,11 @@ This repository contains demonstrative examples along with comments on the capab
 
 ## Themes
 
-> <p><strong>Step 1</strong> - Prompt Engineering -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/prompt-engineering)</p>
-> <p><strong>Step 2</strong> - Retrieval Augmented Generation (RAG) -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/rag)</p>
-> <p><strong>Step 2</strong> - Retrieval Augmented Generation (RAG) -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/rag)</p>
-> <p><strong>Step 2</strong> - Retrieval Augmented Generation (RAG) -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/rag)</p>
-> <p><strong>Step 2</strong> - Retrieval Augmented Generation (RAG) -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/rag)</p>
+> <p><strong> 1</strong> - Prompt Engineering -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/prompt-engineering)</p>
+> <p><strong> 2</strong> - Retrieval Augmented Generation (RAG) -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/rag)</p>
+> <p><strong> 3</strong> - Qualitative-to-Quantitative Text Analysis -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/qtoq-text-analysis)</p>
+> <p><strong> 4</strong> - Deductive Logic -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/deductive-logic)</p>
+> <p><strong> 5</strong> - Behavioral & Decision-Making Quantification -> (https://github.com/MoiraCorp/Beyond-GenAI/blob/main/behavioral-decision-making)</p>
 
 
 
